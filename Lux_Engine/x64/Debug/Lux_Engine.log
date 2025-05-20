@@ -1,4 +1,5 @@
-﻿  Game.cpp
+﻿  Entity.cpp
+  Game.cpp
   main.cpp
   Generating Code...
   Lux_Engine.vcxproj -> C:\Users\scsty\source\repos\Lux_Engine\x64\Debug\Lux_Engine.exe
