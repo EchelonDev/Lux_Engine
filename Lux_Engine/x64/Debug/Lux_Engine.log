@@ -1,5 +1,9 @@
-﻿  Entity.cpp
-  Game.cpp
-  main.cpp
+﻿  Component.cpp
+  Entity.cpp
   Generating Code...
+C:\Users\scsty\OneDrive\Desktop\SDL3-3.2.12\include\SDL3\SDL_render.h(119,16): warning C4099: 'SDL_Renderer': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Entity.cpp')
+      C:\Users\scsty\source\repos\Lux_Engine\Entity.h(7,7):
+      see declaration of 'SDL_Renderer'
+  
   Lux_Engine.vcxproj -> C:\Users\scsty\source\repos\Lux_Engine\x64\Debug\Lux_Engine.exe

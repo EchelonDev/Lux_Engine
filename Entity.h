@@ -34,8 +34,9 @@ public:
 	template<typename T>
 	T* GetComponent()
 	{
-		for (auto& c : components_) {
-			if (auto ptr = dynamic_cast<T*>(c.get()))
+		for (auto& c : components_)
+		{
+			if (auto ptr  = dynamic_cast<T*>(c.get()))
 				return ptr;
 		}
 		return nullptr;
