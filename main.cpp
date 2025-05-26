@@ -30,6 +30,10 @@ int main(int argc, char* argv[])
 TODO:
 	- Uncomment PhysicsComponent Codes after creating Vec2 struct
 
+	- Create SpriteComponent
+
+
+
 	- Later: ***** 
 
 	- Later: Check the naming
